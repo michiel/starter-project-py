@@ -1,5 +1,9 @@
 # Example starter module
 
+## Getting started
+
+Rename all occurences of `mymod` to your module name
+
 ## Testing
 
 Install the `nose` test runner
